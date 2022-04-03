@@ -1,0 +1,65 @@
+/* Write your CSS code here */
+.div-container {
+  display: flex;
+  flex-direction: row;
+  height: 80vh;
+  align-items: center;
+  justify-content: space-around;
+  padding: 5vh;
+}
+
+.cloths-image {
+  height: 500px;
+  width: 600px;
+}
+
+.matter-container {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 45px;
+}
+
+.para {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.shop-now-button {
+  width: 100px;
+  height: 30px;
+  background-color: #0967d2;
+  border: none;
+  cursor: pointer;
+  border-radius: 7px;
+  color: #ffffff;
+}
+
+@media Screen and (max-width: 576px) {
+  .div-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .cloths-image {
+    height: 30%;
+    width: 90%;
+  }
+  .matter-container {
+    width: 100%;
+    order: 1;
+    margin-top: -40px;
+  }
+  .heading {
+    font-size: 20px;
+    order: 0;
+  }
+  .para {
+    font-size: 12px;
+    order: 1;
+  }
+}
